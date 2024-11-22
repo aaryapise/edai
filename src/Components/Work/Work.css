@@ -1,0 +1,37 @@
+/* Work Section Styles */
+.work-container {
+    
+    padding: 50px 20px;
+    text-align: center;
+    color: white;
+    position: relative;
+  }
+  
+  .work-header {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    font-weight: bold;
+  }
+  
+  .work-stats {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+  }
+  
+  .work-stat {
+    text-align: center;
+  }
+  
+  .count-number {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 0;
+    color: #ff6f61; /* Adjust color to match the theme */
+  }
+  
+  .work-stat span {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #fff;
+  }
